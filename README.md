@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro
 - 👀 I’m interested in economics and policy making!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on education research
 - 💞️ I’m looking to collaborate on codes & DataScience
 - 📫 How to reach me ...
 
